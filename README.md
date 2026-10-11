@@ -1,7 +1,7 @@
 <!-- PROFILE HERO -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/lm712-snu/lm712-snu/main/assets/profile-banner.svg" alt="Lakshya Mishra — Mathematics and Machine Learning" width="100%" />
+<img src="https://raw.githubusercontent.com/lm712-snu/lm712-snu/main/assets/profile-banner.svg" alt="Lakshya Mishra — Mathematics, machine learning, computer vision" width="100%" />
 
 # Lakshya Mishra
 
@@ -10,7 +10,7 @@
 **B.Sc. (Research) in Mathematics** · Minor in Computer Science & Engineering  
 Shiv Nadar University · Class of 2027
 
-[LinkedIn](https://www.linkedin.com/in/lakshya-mishra-103148302/) · [GitHub](https://github.com/lm712-snu) · [CVLM Thesis](https://github.com/lm712-snu/lakshyathesis)
+[Portfolio](https://lm712-snu.github.io/lm712-snu/) · [LinkedIn](https://www.linkedin.com/in/lakshya-mishra-103148302/) · [CVLM Thesis](https://github.com/lm712-snu/lakshyathesis)
 
 *Understand the mathematics. Build the system. Explain the why.*
 
@@ -20,9 +20,12 @@ Shiv Nadar University · Class of 2027
 
 ## About
 
-I’m interested in how mathematical ideas become useful computational systems. My work and learning span machine learning, computer vision and vision-language models, large language models, quantitative analytics, and data analysis. I enjoy moving between theory, experiments, practical implementations, and clear technical communication.
+I’m a mathematics undergraduate interested in how mathematical ideas become useful computational systems. I work across machine learning, computer vision and vision-language models, LLM applications, quantitative analytics, and data analysis. I enjoy connecting theory with experiments and practical implementations—and explaining the ideas clearly.
 
-**Currently exploring:** the mathematics of computer vision language models, neural-network architectures, agentic LLM workflows, and quantitative modelling.
+- **Currently learning:** neural networks, CNNs, image processing, and the foundations of vision-language models.
+- **Research direction:** *Mathematics of Computer Vision Language Models*.
+- **Applied experience:** SQL and Excel reporting, KPI tracking, ETL-style workflows, and data reconciliation.
+- **I value:** sound mathematical reasoning, reproducible work, and useful documentation.
 
 ## Featured work
 
@@ -31,11 +34,11 @@ I’m interested in how mathematical ideas become useful computational systems. 
 <td width="50%" valign="top">
 
 ### Computer Vision Language Models
-**Ongoing thesis / research direction**
+**Research · ongoing**
 
-Studying image representations, convolution, filters, feature maps, CNNs, gradient-based learning, and the transition toward vision transformers.
+Exploring image processing, convolution, filters, feature maps, CNNs, gradient-based learning, and the path toward vision transformers.
 
-[Thesis repository](https://github.com/lm712-snu/cvlm-thesis) · [Learning website](https://github.com/lm712-snu/lakshyathesis)
+[Thesis learning site](https://github.com/lm712-snu/lakshyathesis)
 
 </td>
 <td width="50%" valign="top">
@@ -43,7 +46,7 @@ Studying image representations, convolution, filters, feature maps, CNNs, gradie
 ### Chess Position Evaluation
 **Mathematical modelling + ML**
 
-Explores chess positions through mathematical representations, engineered features, and supervised learning models.
+A project combining chess-position representations, engineered features, regression, and tree-based models to study position evaluation.
 
 [View repository](https://github.com/lm712-snu/Mathematical-Foundations-and-Machine-Learning-for-Chess-Position-Evaluation)
 
@@ -52,34 +55,34 @@ Explores chess positions through mathematical representations, engineered featur
 <tr>
 <td width="50%" valign="top">
 
-### Credit & Commodity Risk Analytics
-**Quantitative analytics**
+### Contract Analyzer & Legal QA Agent
+**LLM · retrieval-augmented generation**
 
-Simulation work covering credit-score risk bands, loan-default classification, expected-loss estimation, and natural-gas price forecasting.
+A prototype exploring document question answering, semantic retrieval, structured outputs, and agent-style workflows.
 
-[Explore GitHub](https://github.com/lm712-snu)
+[View MAT496 capstone](https://github.com/lm712-snu/LAKSHYAMISHRA-CAPSTONEPROJECT-MAT496)
 
 </td>
 <td width="50%" valign="top">
 
-### Contract Analyzer & Legal QA Agent
-**LLM / RAG prototype**
+### AuralMind — Music Intelligence
+**LLM application prototype**
 
-Explores document question answering, semantic retrieval, structured outputs, and agent-style workflows.
+An exploratory music-intelligence application using an LLM workflow with LangGraph and a Streamlit/FastAPI-oriented stack.
 
-[View capstone](https://github.com/lm712-snu/LAKSHYAMISHRA-CAPSTONEPROJECT-MAT496)
+[Explore repositories](https://github.com/lm712-snu?tab=repositories)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### AuralMind — Music Intelligence
-**LLM application prototype**
+### Quantitative Risk Analytics
+**Quantitative simulation work**
 
-An exploratory music-intelligence app scaffold involving LangGraph, FastAPI, and Streamlit.
+Explored natural-gas price forecasting, loan-default classification, credit-risk bands, and expected-loss estimation through job simulations.
 
-[View repository](https://github.com/lm712-snu/LAKSHYAMISHRA-LLM-MAT496)
+[View GitHub](https://github.com/lm712-snu?tab=repositories)
 
 </td>
 <td width="50%" valign="top">
@@ -87,67 +90,79 @@ An exploratory music-intelligence app scaffold involving LangGraph, FastAPI, and
 ### Chatbots Using Large Language Models
 **Undergraduate seminar**
 
-Mathematical and practical exploration of transformer concepts, attention, vector similarity, probability, and optimisation.
+A mathematical and practical exploration of transformer concepts, attention, vector similarity, probability, and optimisation.
 
-[Seminar](https://github.com/lm712-snu/UG-SEMINAR-CREATING_CHATBOT_USING_LLM) · [Implementation](https://github.com/lm712-snu/creating_chatbots_using_llm)
+[Seminar repository](https://github.com/lm712-snu/UG-SEMINAR-CREATING_CHATBOT_USING_LLM)
 
 </td>
 </tr>
 </table>
 
-<details>
-<summary><strong>More projects</strong></summary>
-
-- **Ensemble learning:** decision trees, bagging, random forests, overfitting, bias–variance behaviour, and out-of-bag error.
-- **SMS spam detection:** text preprocessing, TF–IDF, Logistic Regression, and classification evaluation.
-- **COVID-19 vaccination tracking system:** database project for registration, scheduling, dose tracking, inventory, and reporting.
-- **ASPAS:** software-engineering project for auto spare-parts shop automation.
-
-</details>
-
-## Experience
-
-**MIS / Data Analytics Intern — Love In Store, Gurugram** · Summer 2026  
-Worked with SQL and Excel reporting, KPI tracking, data extraction, ETL-style workflows, and reconciliation between portal and database outputs. Investigated duplicates, joins, aggregation issues, and report mismatches.
-
-**Campus involvement:** The Mathematics Society, Shiv Nadar University · Sub Security Lead, Breeze · SNUMUNSOC Sponsorship & Finance · Fresher Orientation volunteer.
-
 ## Technical toolkit
+
+<p>
+  <img src="https://img.shields.io/badge/Python-1E293B?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-1E293B?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="SQL" />
+  <img src="https://img.shields.io/badge/Machine_Learning-1E293B?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/PyTorch-1E293B?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/LangGraph-1E293B?style=for-the-badge&logo=langchain&logoColor=1C9A72" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/Streamlit-1E293B?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/FastAPI-1E293B?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/MATLAB-1E293B?style=for-the-badge&logo=mathworks&logoColor=E16737" alt="MATLAB" />
+</p>
 
 | Area | Tools and concepts |
 |---|---|
 | Programming & data | Python, SQL, R, MATLAB, pandas, NumPy, SciPy, Excel |
-| Machine learning | scikit-learn, XGBoost, classification, regression, ensemble methods, evaluation |
-| LLM systems | RAG, semantic search, tool calling, LangGraph, LangSmith |
+| Machine learning | scikit-learn, regression, classification, ensemble methods, model evaluation |
+| LLM systems | RAG, semantic search, structured outputs, tool calling, LangGraph, LangSmith |
 | Development | FastAPI, Streamlit, Jupyter, Git, GitHub |
-| Mathematics | Linear algebra, probability, statistics, optimisation, calculus, mathematical modelling |
+| Mathematics | Linear algebra, probability, statistics, calculus, optimisation, mathematical modelling |
 | Analytics | Data cleaning, ETL, joins, aggregation, KPI reporting, reconciliation, visualisation |
 
-## Certifications & structured learning
+## GitHub dashboard
 
-- Tata — GenAI Powered Data Analytics Job Simulation (Forage, Aug 2026)
-- Deloitte Australia — Data Analytics Job Simulation (Forage, Jun 2026)
-- McKinsey.org Forward Program (Jun 2026)
-- J.P. Morgan — Quantitative Research Job Simulation (Forage, May 2026)
-- Mastercard — Cybersecurity Job Simulation (Forage, Mar 2026)
-- Machine Learning with Python (Cognitive Class / IBM, 2025)
-- SQL and Relational Databases 101 (Cognitive Class, 2025)
-- Advanced Python for Business Analytics (Arizona State University, 2025)
-- R for Data Science (Cognitive Class, 2024)
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lm712-snu&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lm712-snu&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most-used repository languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=lm712-snu&hide_border=true&background=0D1117&ring=58A6FF&fire=F78166&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
+</div>
+
+## Experience & learning
+
+**MIS / Data Analytics Intern — Love In Store, Gurugram** · Summer 2026  
+Worked with SQL and Excel reporting, KPI tracking, data extraction, ETL-style workflows, and reconciliation between portal and database outputs. Investigated duplicate records, join/aggregation issues, and report mismatches.
+
+**Campus involvement:** Mathematics Society, Shiv Nadar University · Sub Security Lead, Breeze · SNUMUNSOC Sponsorship & Finance · Fresher Orientation volunteer.
+
+### Certifications & structured learning
+
+- Tata — GenAI Powered Data Analytics Job Simulation (Forage, 2026)
+- Deloitte Australia — Data Analytics Job Simulation (Forage, 2026)
+- McKinsey.org Forward Program (2026)
+- J.P. Morgan — Quantitative Research Job Simulation (Forage, 2026)
+- Mastercard — Cybersecurity Job Simulation (Forage, 2026)
+- Machine Learning with Python · SQL and Relational Databases 101 (Cognitive Class / IBM)
+- Advanced Python for Business Analytics (Arizona State University)
+- R for Data Science (Cognitive Class)
 
 ## Research communication
 
-**The Mathematics of Modern AI: From Vectors to Transformers** — a research-style writing series connecting mathematical foundations to uncertainty, optimisation, perception, audio, multimodal systems, and LLMs.
+**The Mathematics of Modern AI: From Vectors to Transformers** — a research-style writing series connecting mathematical foundations with perception, optimisation, audio, multimodal systems, and LLMs.
 
-[Read my LinkedIn](https://www.linkedin.com/in/lakshya-mishra-103148302/)
+[Read my LinkedIn](https://www.linkedin.com/in/lakshya-mishra-103148302/) · [Open portfolio website](https://lm712-snu.github.io/lm712-snu/)
 
 ---
 
 <div align="center">
 
-**Interested in mathematics-led AI, practical ML, or clear technical explanations?**  
+**Interested in mathematics-led AI, practical machine learning, or clear technical explanations?**
+
 [Connect on LinkedIn](https://www.linkedin.com/in/lakshya-mishra-103148302/) · [Explore my repositories](https://github.com/lm712-snu?tab=repositories)
 
-<sub>Project descriptions distinguish coursework, prototypes, and simulation work from deployed production systems. Results depend on the datasets and assumptions used.</sub>
+<sub>Project descriptions distinguish coursework, prototypes, research directions, and simulation work from deployed production systems. External statistic cards may take a moment to load.</sub>
 
 </div>
