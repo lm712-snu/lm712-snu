@@ -1,5 +1,11 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/lm712-snu/lm712-snu/main/assets/profile-banner.svg" alt="Lakshya Mishra — Mathematics and Machine Learning" width="100%" />
+
+</div>
+
+<div align="center">
+
 # Lakshya Mishra
 
 ### Mathematics • Machine Learning • Quantitative Analytics • LLM Systems
