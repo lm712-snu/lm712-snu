@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#081426"/>
+      <stop offset="0.55" stop-color="#132a49"/>
+      <stop offset="1" stop-color="#245b70"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#6ee7d8"/>
+      <stop offset="1" stop-color="#9dc8ff"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#c6e8ff" stroke-opacity=".08" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+  <circle cx="1010" cy="178" r="140" fill="#4bd6cb" opacity=".06"/>
+  <circle cx="1010" cy="178" r="105" fill="none" stroke="#9dc8ff" stroke-opacity=".42" stroke-width="1.5"/>
+  <circle cx="1010" cy="178" r="70" fill="none" stroke="#6ee7d8" stroke-opacity=".6" stroke-width="1.5"/>
+  <g stroke="url(#accent)" stroke-width="2" opacity=".9">
+    <path d="M905 117L970 150L1047 102L1112 157L1075 233L1007 266L930 224L905 117Z" fill="none"/>
+    <path d="M970 150L1007 266M1047 102L1075 233M905 117L1112 157M930 224L1112 157"/>
+  </g>
+  <g fill="#d7f8ff">
+    <circle cx="905" cy="117" r="5"/><circle cx="970" cy="150" r="5"/><circle cx="1047" cy="102" r="5"/>
+    <circle cx="1112" cy="157" r="5"/><circle cx="1075" cy="233" r="5"/><circle cx="1007" cy="266" r="5"/><circle cx="930" cy="224" r="5"/>
+  </g>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <text x="76" y="95" fill="#9adfdc" font-size="16" letter-spacing="4" font-weight="600">MATHEMATICS  /  MACHINE LEARNING</text>
+    <text x="72" y="164" fill="#ffffff" font-size="48" font-weight="700">Lakshya Mishra</text>
+    <rect x="76" y="190" width="92" height="4" rx="2" fill="url(#accent)"/>
+    <text x="76" y="231" fill="#d4e4f4" font-size="21">Research • Computer Vision • LLM Systems</text>
+    <text x="76" y="267" fill="#a9bfd5" font-size="16">Shiv Nadar University  ·  B.Sc. (Research), Mathematics</text>
+    <text x="76" y="317" fill="#8aa7c0" font-size="13" letter-spacing="2">UNDERSTAND THE MATH. BUILD THE SYSTEM. EXPLAIN THE WHY.</text>
+  </g>
+</svg>
