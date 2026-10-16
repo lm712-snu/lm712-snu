@@ -10,7 +10,7 @@
 **B.Sc. (Research) in Mathematics** · Minor in Computer Science & Engineering  
 Shiv Nadar University · Class of 2027
 
-[Portfolio](https://lm712-snu.github.io/lm712-snu/) · [LinkedIn](https://www.linkedin.com/in/lakshya-mishra-103148302/) · [CVLM Thesis](https://github.com/lm712-snu/lakshyathesis)
+[Portfolio](https://lm712-snu.github.io/lm712-snu/) · [LinkedIn](https://www.linkedin.com/in/lakshya-mishra-103148302/) · [CVLM Thesis](https://lm712-snu.github.io/cvlm-thesis/)
 
 *Understand the mathematics. Build the system. Explain the why.*
 
@@ -29,19 +29,35 @@ I’m a mathematics undergraduate interested in how mathematical ideas become us
 
 ## Featured work
 
+My portfolio is centred on one research direction: understanding how mathematical representations of visual data connect to modern AI systems. The projects below range from ongoing research and learning resources to prototypes and applied analytics.
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Computer Vision Language Models
-**Research · ongoing**
+### Mathematics of Computer Vision-Language Models
+**Thesis · ongoing research and learning site**
 
-Exploring image processing, convolution, filters, feature maps, CNNs, gradient-based learning, and the path toward vision transformers.
+A structured learning resource for the mathematics behind image processing, convolution, filters, feature maps, CNNs, gradient-based learning, and the progression toward vision transformers and vision-language models.
 
-[Thesis learning site](https://github.com/lm712-snu/lakshyathesis)
+[Open thesis learning site](https://lm712-snu.github.io/cvlm-thesis/) · [Repository](https://github.com/lm712-snu/cvlm-thesis)
 
 </td>
 <td width="50%" valign="top">
+
+### GeoMind — Geospatial AI for Visual Understanding
+**Exploratory project · thesis-connected direction**
+
+Exploring how geospatial data and visual representations can support spatial analysis, with the project direction being aligned to the broader thesis interest in computer vision and multimodal AI. Backend analysis requires a separately deployed API.
+
+[Explore GeoMind](https://github.com/lm712-snu/GeoMind)
+
+### MedVision AI — Medical Imaging Workflow Concept
+**Healthcare AI concept · prototype**
+
+A concept for bringing scan uploads, analysis workflows, structured case context, and conversational support into a connected clinical workflow. It is a prototype/business proposition, not a validated diagnostic system.
+
+[Explore MedVision AI](https://lm712-snu.github.io/MEDVISION-AI/)
 
 ### Chess Position Evaluation
 **Mathematical modelling + ML**
